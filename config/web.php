@@ -32,8 +32,8 @@ $config = [
             'clients' => [
                 'google' => [
                     'class' => 'yii\authclient\clients\Google',
-                    'clientId' => '11112153284-c91qfojgir1r9701chk9nt3l98n1q0fo.apps.googleusercontent.com',
-                    'clientSecret' => '0IRqBbhM-juGA8NX7D1xy8ZD',
+                    'clientId' => '',
+                    'clientSecret' => '',
                 ],
             ],
         ],
